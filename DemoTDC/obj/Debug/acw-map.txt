@@ -1,4 +1,0 @@
-DemoTDC.MainActivity, DemoTDC;md584695a2e73ba34629a8f1c932a213a9e.MainActivity
-DemoTDC.MainActivity, DemoTDC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md584695a2e73ba34629a8f1c932a213a9e.MainActivity
-DemoTDC.MainActivity;md584695a2e73ba34629a8f1c932a213a9e.MainActivity
-demotdc.MainActivity;md584695a2e73ba34629a8f1c932a213a9e.MainActivity
